@@ -4,7 +4,7 @@
 💻 I work with technologies like **Python**, **C++**, **React**, **Node.js**, and **Relational DBs**  
 📊 Currently working on: **Sports Analysis use AI/ML to predict outcomes**   
 🌱 Always learning: Data science, Full-stack dev, and Cyber-security
-📫 How to reach me: [Email](andrew.ballard2525@gmail.com) | [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/andrew-cody-ballard/)) | [Portfolio](Working on it)
+📫 How to reach me: [Email](andrew.ballard2525@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andrew-cody-ballard/) | [Portfolio](Working on it)
 
 ---
 
