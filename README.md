@@ -22,9 +22,9 @@
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs&count_private=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewb2011&show_icons=true&hide=prs&count_private=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewb2011&layout=compact)
 
 ---
 
