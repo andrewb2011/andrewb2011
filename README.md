@@ -3,7 +3,7 @@
 🎓 I'm a Computer Science Major from the University of Florida c/o 2025  
 💻 I work with technologies like **Python**, **C++**, **React**, **Node.js**, and **Relational DBs**  
 📊 Currently working on: **Sports Analysis use AI/ML to predict outcomes**   
-🌱 Always learning: Data science, Full-stack dev, and Cyber-security
+🌱 Always learning: Data science, Full-stack dev, and Cyber-security  
 📫 How to reach me:  
 Email: andrew.ballard2525@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/andrew-cody-ballard/)  
