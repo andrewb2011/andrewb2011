@@ -7,7 +7,6 @@
 📫 How to reach me:  
     Email: andrew.ballard2525@gmail.com  
     <a href="https://www.linkedin.com/in/andrew-cody-ballard/" target="_blank">LinkedIn</a>  
-    Portfolio: Working on it
 
 
 ---
