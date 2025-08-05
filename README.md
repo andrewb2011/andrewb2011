@@ -30,10 +30,6 @@
 </a>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewballard&show_icons=true&count_private=true&hide=prs&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewb2011&layout=compact)
-
 ---
 
 ### 🌍 Featured Projects
