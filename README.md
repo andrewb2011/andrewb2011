@@ -38,8 +38,8 @@
 ### 🌍 Featured Projects
 
 - 🔬 **Brain Tumor Classifier** — MRI image classifier using CNNs to detect tumors  
-- 🛰️ **Crime Tracking Web App** — React + Node.js app to map and update crime cases across LA  
-- 🧪 **Cyber Resilience NN** — Research project building neural networks to measure system resilience  
+- 🛰️ **Crime Tracking Web App** — React + Node.js + OracleDB app to map and update crime cases across LA  
+- 🧪 **Cyber Resilience Measurement Tol** — Research project to measure system resilience  
 - 🎬 **TV Show Recommender (C++)** — CLI app using CSV data to suggest shows
 
 ---
